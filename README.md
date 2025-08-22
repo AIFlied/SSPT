@@ -1,2 +1,2 @@
-# SemTracePRAG
-SemTrace-PRAG : Semantic Similarity-based Poisoning-Traceback for Retrieval-Augmented Generation
+# SSPT
+SSPT : Semantic Similarity-based Poisoning-Traceback for Retrieval-Augmented Generation
