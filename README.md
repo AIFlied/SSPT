@@ -1,2 +1,2 @@
 # SemTracePRAG
-SemTrace-PRAG : Semantic Similarity-based Traceback for Poisoned Retrieval-Augmented Generation
+SemTrace-PRAG : Semantic Similarity-based Poisoning-Traceback for Retrieval-Augmented Generation
